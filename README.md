@@ -2,7 +2,7 @@
 automatic shopping chart 
 
 # 分工
-
+曾灏铭：项目查新、编程
 
 
 # 组名
