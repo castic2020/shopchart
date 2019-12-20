@@ -29,7 +29,7 @@ automatic shopping chart
 
 # 硬件
 
-##电路图ver2.0
+## 电路图ver2.0
 ![](https://github.com/castic2020/shopchart/blob/master/20191220.jpg)
 
 # 软件
