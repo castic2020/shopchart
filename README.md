@@ -30,7 +30,7 @@ automatic shopping chart
 
 
 # 软件
-
+![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)
 
 # 分工
 
