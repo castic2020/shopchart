@@ -28,7 +28,7 @@ automatic shopping chart
 ![](https://github.com/castic2020/shopchart/blob/master/arduino.picture.wheels.jpg)  
 
 # 硬件
-
+![](https://github.com/castic2020/shopchart/blob/master/20191220.jpg)
 
 # 软件
 ![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)
