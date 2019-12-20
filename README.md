@@ -25,7 +25,7 @@ automatic shopping chart
 ## 装配实物图
 
 # 系统框图
-
+![](https://github.com/castic2020/shopchart/blob/master/arduino.picture.wheels.jpg)  
 
 # 硬件
 
