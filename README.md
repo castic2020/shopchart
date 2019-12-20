@@ -3,7 +3,7 @@ automatic shopping chart
 
 # 分工
 曾灏铭：项目查新、编程
-
+唐今尧：结构、搭建
 
 # 组名
 
