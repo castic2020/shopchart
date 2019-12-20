@@ -18,7 +18,7 @@ automatic shopping chart
 # 原型样机
 
 ## v0.1 3D打印建模图
-
+![](https://github.com/castic2020/shopchart/blob/master/%E5%BB%BA%E6%A8%A1.png)
 ## 激光切割设计图
 
 ## 装配实物图
