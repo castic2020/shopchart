@@ -49,7 +49,9 @@ automatic shopping chart
 ![](https://github.com/castic2020/shopchart/blob/master/20191220.jpg)
 
 # 软件
-![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)
+![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)   
+## 通讯协议  
+![](https://github.com/castic2020/shopchart/blob/master/捕获.PNG)
 
 # 分工
 
