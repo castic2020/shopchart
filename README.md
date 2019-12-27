@@ -48,7 +48,8 @@ automatic shopping chart
 ## 电路图ver2.0
 ![](https://github.com/castic2020/shopchart/blob/master/20191220.jpg)
 
-# 软件
+# 软件  
+## 基本功能图
 ![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)   
 ## 通讯协议  
 ![](https://github.com/castic2020/shopchart/blob/master/捕获.PNG)
