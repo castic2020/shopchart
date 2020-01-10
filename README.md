@@ -82,7 +82,7 @@ A:1）是  2）否
 
 # 软件  
 ## 基本功能图
-![](https://github.com/castic2020/shopchart/blob/master/AI%20trolley.jpg)   
+![](https://github.com/castic2020/shopchart/blob/master/%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)   
 ## 通讯协议  
 ![](https://github.com/castic2020/shopchart/blob/master/捕获.PNG)
 
