@@ -56,7 +56,7 @@ A:1）是  2）否
   2、利用图像识别、二维码追踪等使购物车可以跟着顾客走。  
   3、利用摄像头寻找道路自动前进。  
  # 系统组成部分
-
+![https://github.com/castic2020/shopchart/blob/master/%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.jpg]
 
 
 
